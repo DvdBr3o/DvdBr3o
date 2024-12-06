@@ -4,7 +4,7 @@
   }
 
 @font-face {
-  font-family: 'CaskaydiaCove';
+  font-family: 'HarmonyOSSans';
   src: url('../fonts/HarmonyOSSans.woff2') format('woff2');
 }
 
@@ -96,5 +96,5 @@
 
 body {
     font-family: HarmonyOSSans,CaskaydiaCove,sans-serif;
-    
+
 }
