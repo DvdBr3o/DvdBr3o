@@ -32,7 +32,7 @@
   
 ## 🔗 更多の我
 
-<div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(270px, 330px));">
+<div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));">
 
 [![](partials/cardlinks/blog.svg)](https://blog.dvdbr3o.top/)
 
