@@ -2,13 +2,13 @@
 
 ---
 
-<h2> ⚒️ 技术栈 </h2>
+## ⚒️ 技术栈
 
 - 啥也不会
 
 - 会点 `C++`
 
-<h2> ✅ 正在做 </h2>
+## ✅ 正在做
 
 - 基于 `C++20` template / `Vulkan` 的 modern GUI 框架
 
@@ -18,7 +18,7 @@
 
 ~~(以上永远不会实现)~~
 
-<h2> ❤️ 喜欢 </h2>
+## ❤️ 喜欢
 
 - 💻 学点 `C++`
 
@@ -30,7 +30,7 @@
 
 - 💌 她
   
-<h2> 🔗 更多の我 </h2>
+## 🔗 更多の我
 
 <div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));">
 
