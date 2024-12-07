@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 600 100" max-width="90%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .card-link{position:relative;width:100%;min-width:200px;max-width:400px;height:80px;margin:20px auto;border-radius:12px;overflow:hidden;}.card-link .card-link-content{text-decoration:none;position:relative;width:100%;height:100%;display:flex;align-items:center;justify-content:space-around;padding:12px;background-color:hsla(0,0%,96.5%,0.88);box-sizing:border-box;}.card-link [cardlink-left] .card-link-text{order:1;}.card-link [cardlink-left] .card-link-icon{margin:0 8px 0 0;}.card-link .card-link-text{flex:1;}.card-link .card-link-title{max-height:40px;font-size:16px;font-weight:500;line-height:1.25;color:#121212;margin:0 0 5px;letter-spacing:0.2px;word-break:break-all;display:-webkit-box;text-overflow:ellipsis;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:2;}.card-link .card-link-url{display:-webkit-box;font-size:13px;color:#999;margin:0;line-height:1.3;overflow:hidden;word-break:break-word;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:1;}.card-link .card-link-url svg{float:left;margin:2px 5px 0 0;}.card-link .card-link-icon{width:60px;height:60px;margin:0 0 0 8px;overflow:hidden;border-radius:6px;object-fit:contain;}
+      </style>
+
+        <div class="card-link">
+          <div class="card-link-content" target="_blank" data-tag="cardlink">
+            <div class="card-link-text">
+              <span class="card-link-title">我的哔站</span>
+              <span class="card-link-url">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M5.327 18.883a3.005 3.005 0 010-4.25l2.608-2.607a.75.75 0 10-1.06-1.06l-2.608 2.607a4.505 4.505 0 006.37 6.37l2.608-2.607a.75.75 0 00-1.06-1.06l-2.608 2.607a3.005 3.005 0 01-4.25 0zm5.428-11.799a.75.75 0 001.06 1.06L14.48 5.48a3.005 3.005 0 014.25 4.25l-2.665 2.665a.75.75 0 001.061 1.06l2.665-2.664a4.505 4.505 0 00-6.371-6.372l-2.665 2.665zm5.323 2.117a.75.75 0 10-1.06-1.06l-7.072 7.07a.75.75 0 001.061 1.06l7.071-7.07z"></path>
+                </svg>
+                https://www.zhihu.com/people/davidbro
+              </span>
+            </div>
+            <svg class="card-link-icon" fill="none" viewBox="0 0 1024 1024" style="background: rgb(235, 235, 235);">
+              <svg fill="#00A1D6" width="100%" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg"><title>Bilibili icon</title><path d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c0-.373.129-.689.386-.947.258-.257.574-.386.947-.386zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.249.56-.373.933-.373Z"/></svg>
+            </svg>
+          </div>
+        </div>
+    </div>
+  </foreignObject>
+</svg>
