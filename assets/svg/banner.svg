@@ -2,7 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   viewBox="0 280 1920 520"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -22,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.57453704"
-     inkscape:cx="858.95246"
-     inkscape:cy="888.5415"
+     inkscape:zoom="1.6250361"
+     inkscape:cx="789.82858"
+     inkscape:cy="698.75369"
      inkscape:window-width="2560"
      inkscape:window-height="1526"
      inkscape:window-x="-11"
@@ -116,11 +118,11 @@
        transform="translate(1.4920414,7.6020179)"><tspan
          x="124.21169"
          y="659.12805"
-         id="tspan6"><tspan
+         id="tspan3"><tspan
            style="font-weight:300;-inkscape-font-specification:'HarmonyOS Sans SC Light'"
-           id="tspan4">Code · Music · Art · Love   |   </tspan><tspan
+           id="tspan1">Code · Music · Art · Love   |   </tspan><tspan
            style="font-weight:300;-inkscape-font-specification:'HarmonyOS Sans SC Light'"
-           id="tspan5">一个天天想她的白痴</tspan></tspan></text><text
+           id="tspan2">一个天天都在想她的白痴</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:216.828px;font-family:'HarmonyOS Sans SC';-inkscape-font-specification:'HarmonyOS Sans SC';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0487859;stroke-dasharray:none;stroke-opacity:1"
        x="110.89666"
