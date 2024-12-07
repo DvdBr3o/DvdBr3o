@@ -22,7 +22,7 @@
 
 - 💻 学点 `C++`
 
-- 🎶 一点点电子音乐 ⊇ {Botanica, Hyper, Riddim, Kawaii, Pop}
+- 🎶 一点点电子音乐 ⊇ { Botanica, Hyper, Riddim, Kawaii, Pop, Trap }
 
 - 🖼️ 一点点 art
 
