@@ -32,6 +32,8 @@
   
 <h2> 🔗 更多の我 </h2>
 
+<div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));">
+
 [![](partials/cardlinks/blog.svg)](https://blog.dvdbr3o.top/)
 
 [![](partials/cardlinks/zhihu.svg)](https://www.zhihu.com/people/davidbro)
@@ -39,3 +41,5 @@
 [![](partials/cardlinks/mastodon.svg)](https://mastodon.social/@dvdbr3o)
 
 [![](partials/cardlinks/bilibili.svg)](https://space.bilibili.com/357237146)
+
+</div>
