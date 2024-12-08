@@ -29,6 +29,10 @@
 - 🕹️ COD ~~(买不起本体所以特指 Warzone 😅)~~
 
 - 💌 她
+
+## 🖥️ 状态
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o)
   
 ## 🔗 更多の我
 
@@ -41,5 +45,6 @@
 [![](partials/cardlinks/mastodon.svg)](https://mastodon.social/@dvdbr3o)
 
 [![](partials/cardlinks/bilibili.svg)](https://space.bilibili.com/357237146)
+
 
 </div>
