@@ -22,17 +22,17 @@
 
 - 💻 学点 `C++`
 
-- 🎶 一点点电子音乐 ⊇ { Botanica, Hyper, Riddim, Kawaii, Pop, Trap }
+- 🎶 一点点电子音乐 ⊇ \{ Indie, Daria, Botanica, Hyper, Riddim, Kawaii, Pop, Trap \}
 
-- 🖼️ 一点点 art
+- 🖼️ 一点点 art ⊇ \{ 2010s Futurism, 各种 core \} 
 
-- 🕹️ COD ~~(买不起本体所以特指 Warzone 😅)~~
+- 🕹️ 三角洲
 
 - 💌 她
 
 ## 🖥️ 状态
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o\&layout=compact)
   
 ## 🔗 更多の我
 
