@@ -8,7 +8,7 @@
         <div class="card-link">
           <div class="card-link-content" target="_blank" data-tag="cardlink">
             <div class="card-link-text">
-              <span class="card-link-title">我的嘟站</span>
+              <span class="card-link-title">My Mastodon</span>
               <span class="card-link-url">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M5.327 18.883a3.005 3.005 0 010-4.25l2.608-2.607a.75.75 0 10-1.06-1.06l-2.608 2.607a4.505 4.505 0 006.37 6.37l2.608-2.607a.75.75 0 00-1.06-1.06l-2.608 2.607a3.005 3.005 0 01-4.25 0zm5.428-11.799a.75.75 0 001.06 1.06L14.48 5.48a3.005 3.005 0 014.25 4.25l-2.665 2.665a.75.75 0 001.061 1.06l2.665-2.664a4.505 4.505 0 00-6.371-6.372l-2.665 2.665zm5.323 2.117a.75.75 0 10-1.06-1.06l-7.072 7.07a.75.75 0 001.061 1.06l7.071-7.07z"></path>
