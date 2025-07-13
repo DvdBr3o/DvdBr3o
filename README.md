@@ -2,39 +2,54 @@
 
 ---
 
-## ⚒️ 技术栈
+## ⚒️ Tech Stack
 
-- 啥也不会
+- Basically nothing
 
-- 会点 `C++`
+- Languages: C++, lua, tsx
 
-## ✅ 正在做
+- Toolchains: [drogon](https://github.com/drogonframework/drogon), [xmake](https://github.com/xmake-io/xmake), [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp), [stdexec](https://github.com/NVIDIA/stdexec), [torch/pytorch/libtorch](https://github.com/pytorch/pytorch)
 
-- 基于 `C++20` template / `Vulkan` 的 modern GUI 框架
+## ✅ Doing
 
-- 借鉴 `coffeescript` 并兼容 `lua` 的面向配置的脚本语言
+- A mordern, interface-friendly, cross-platform GUI framework based on `C++20` and `Vulkan`.
 
-- 基于前两者的音乐宿主 DAW
+- A config-oriented script language, compatible with `lua`, inspired by [`coffeescript`](https://coffeescript.org/) & [`moonscript`](https://moonscript.org/) & [`Yuescript`](https://yuescript.org/).
 
-~~(以上永远不会实现)~~
+- An AI agent + generative model geared towards music producution assistance, highly specialized & adapted to producers' personal preference.
 
-## ❤️ 喜欢
+- A music production DAW based on the former techs.
 
-- 💻 学点 `C++`
+~~(There is a high likelihood that goals above will never be materialize)~~
 
-- 🎶 一点点电子音乐 ⊇ \{ Indie, Daria, Botanica, Hyper, Riddim, Kawaii, Pop, Trap \}
+## ❤️ Likes
 
-- 🖼️ 一点点 art ⊇ \{ 2010s Futurism, 各种 core \} 
+- 💻 `C++` esp. `C++20` & `C++26`
 
-- 🕹️ 三角洲
+- 🎶 Electric Music ⊇ \{ Indie, Daria, Botanica, Hyper, Riddim, Kawaii, Pop, Trap \}
 
-- 💌 她
+- 🖼️ Alternative Net Art ⊇ \{ 2010s Futurism, 各种 core \}
 
-## 🖥️ 状态
+- 🕹️ Delta Force
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o\&layout=compact)
+## 🖥️ Status
+
+### Coding
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o&layout=compact)
+
+### Bangumi
+
+<div align="left">
+    <a href="https://bgm.tv/user/dvdbr3o">
+        <img src="http://113.45.235.142:12301/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%"/>
+    </a>
+    <a href="https://bgm.tv/user/dvdbr3o">
+        <img src="http://113.45.235.142:12301/details?username=dvdbr3o&collection_type=3&width=200&title=%F0%9F%91%80I%27m%20watching" width="48%"/>
+    </a>
+</div>
   
-## 🔗 更多の我
+## 🔗 More of Me
 
 <div style="display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));">
 
@@ -45,6 +60,5 @@
 [![](partials/cardlinks/mastodon.svg)](https://mastodon.social/@dvdbr3o)
 
 [![](partials/cardlinks/bilibili.svg)](https://space.bilibili.com/357237146)
-
 
 </div>
