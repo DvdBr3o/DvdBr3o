@@ -36,11 +36,13 @@
 
 ### Coding
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o&layout=compact" width="75%"/>
+</div>
 
 ### Bangumi
 
-<div align="left">
+<div align="center">
     <a href="https://bgm.tv/user/dvdbr3o">
         <img src="http://113.45.235.142:12301/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%"/>
     </a>
