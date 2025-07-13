@@ -44,30 +44,28 @@
 
 <div align="center">
     <a href="https://bgm.tv/user/dvdbr3o">
-        <img src="http://113.45.235.142:12301/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%"/>
+        <img src="http://bangumi-status-card.dvdbr3o.top/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%"/>
     </a>
     <a href="https://bgm.tv/user/dvdbr3o">
-        <img src="http://113.45.235.142:12301/details?username=dvdbr3o&collection_type=3&width=200&title=%F0%9F%91%80I%27m%20watching" width="48%"/>
+        <img src="http://bangumi-status-card.dvdbr3o.top/details?username=dvdbr3o&collection_type=3&width=200&title=%F0%9F%91%80I%27m%20watching" width="48%"/>
     </a>
 </div>
   
 ## 🔗 More of Me
 
-</div>
-
 <div align="center">
-<a href="https://blog.dvdbr3o.top/">
-    <img src="partials/cardlinks/blog.svg" width="48%">
-</a>
-<a href="https://www.zhihu.com/people/davidbro">
-    <img src="partials/cardlinks/zhihu.svg" width="48%">
+    <a href="https://blog.dvdbr3o.top/">
+        <img src="partials/cardlinks/blog.svg" width="48%" />
+    </a>
+    <a href="https://www.zhihu.com/people/davidbro">
+        <img src="partials/cardlinks/zhihu.svg" width="48%" />
+    </a>
 </div>
 <div align="center">
-</a>
-<a href="https://mastodon.social/@dvdbr3o">
-    <img src="partials/cardlinks/mastodon.svg" width="48%">
-</a>
-<a href="https://space.bilibili.com/357237146">
-    <img src="partials/cardlinks/bilibili.svg" width="48%">
-</a>
+    <a href="https://mastodon.social/@dvdbr3o">
+        <img src="partials/cardlinks/mastodon.svg" width="48%" />
+    </a>
+    <a href="https://space.bilibili.com/357237146">
+        <img src="partials/cardlinks/bilibili.svg" width="48%" />
+    </a>
 </div>
