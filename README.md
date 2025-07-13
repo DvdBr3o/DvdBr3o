@@ -28,7 +28,7 @@
 
 - 🎶 Electric Music ⊇ \{ Indie, Daria, Botanica, Hyper, Riddim, Kawaii, Pop, Trap \}
 
-- 🖼️ Alternative Net Art ⊇ \{ 2010s Futurism, 各种 core \}
+- 🖼️ Alternative Net Art ⊇ \{ 2010s Futurism, various core art \}
 
 - 🕹️ Delta Force
 
