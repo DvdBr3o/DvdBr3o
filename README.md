@@ -37,7 +37,7 @@
 ### Coding
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o&layout=compact" width="75%"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DvdBr3o&layout=compact&langs_count=6" width="75%"/>
 </div>
 
 ### Bangumi
