@@ -6,9 +6,9 @@
 
 - Basically nothing
 
-- Languages: C++, lua, tsx
+- Languages: C++, python, lua
 
-- Toolchains: [drogon](https://github.com/drogonframework/drogon), [xmake](https://github.com/xmake-io/xmake), [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp), [stdexec](https://github.com/NVIDIA/stdexec), [torch/pytorch/libtorch](https://github.com/pytorch/pytorch)
+- Toolchains: [xmake](https://github.com/xmake-io/xmake), [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp), [stdexec](https://github.com/NVIDIA/stdexec), [torch](https://github.com/pytorch/pytorch), triton
 
 ## ✅ Doing
 
