@@ -44,10 +44,10 @@
 
 <div align="center">
     <a href="https://bgm.tv/user/dvdbr3o">
-        <img src="http://bangumi-status-card.dvdbr3o.top/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%" align="top"/>
+        <img src="http://bangumi-status-card.dvdbr3o.top:8080/details?username=dvdbr3o&collection_type=2&width=200&title=%E2%9C%85I%27ve%20watched" width="48%" align="top"/>
     </a>
     <a href="https://bgm.tv/user/dvdbr3o">
-        <img src="http://bangumi-status-card.dvdbr3o.top/details?username=dvdbr3o&collection_type=3&width=200&title=%F0%9F%91%80I%27m%20watching" width="48%" align="top"/>
+        <img src="http://bangumi-status-card.dvdbr3o.top:8080/details?username=dvdbr3o&collection_type=3&width=200&title=%F0%9F%91%80I%27m%20watching" width="48%" align="top"/>
     </a>
 </div>
   
